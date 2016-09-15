@@ -1,4 +1,4 @@
-# docker_app
+# dockerapp
 Build a docker application with specific model package
 
 ## Installation
