@@ -13,4 +13,4 @@ docker build -t mydockerapp .
 `docker images`
 
 ### Run Docker
-`docker run -it mydockerapp /bin/bash`
+`docker run -it --name iris_prediction --rm -p 5000:5000 mydockerapp`
